@@ -1,0 +1,1 @@
+python3 interactive.py ./out/data_raw --path /home/raghav/fairseq-gec/out/models_pretrain/checkpoint9.pt --beam 12 --nbest 12 --no-progress-bar --print-alignment --copy-ext-dict --replace-unk
